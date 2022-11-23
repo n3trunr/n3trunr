@@ -1,3 +1,7 @@
+# To do 11/23
+## Intro to statistical learning...
+- Chapter 1 Introduction
+
 # To do 11/24
 ## Intro to statistical learning...
 - Chapter 2 Sections
@@ -19,12 +23,7 @@
 
 ## A Theory of the Learnable
 - 1/2 Introduction
-- 2. A LEARNING PROTOCOL FOR BOOLEAN FUNCTIONS
-
-# To do 11/23
-## Intro to statistical learning...
-- Chapter 1 Introduction
-
+- Chapter 2. A LEARNING PROTOCOL FOR BOOLEAN FUNCTIONS
 
 # Finished
 - LeetCode ... Arrays 101 Intro
