@@ -1,10 +1,4 @@
 # To do 11/24
-## Intro to statistical learning...
-- Chapter 2 Sections
-- 2.1 What Is Statistical Learning? 
-- 2.2 Assessing Model Accuracy
-- 2.3 Lab: Introduction to R
-- 2.4 Exercises
 
 ## React ...
 - Rendering Elements
@@ -14,6 +8,13 @@
 # To do 11/25
 ## LeetCode ... 
 - Arrays 101 Deleting: Remove Duplicates from Sorted Array
+
+## Intro to statistical learning...
+- Chapter 2 Sections
+- 2.1 What Is Statistical Learning? 
+- 2.2 Assessing Model Accuracy
+- 2.3 Lab: Introduction to R
+- 2.4 Exercises
 
 # Finished
 - A Theory of the Learnable ... 1/2 Introduction
